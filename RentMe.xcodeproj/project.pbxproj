@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		164744682073E21F008ED5DA /* doc in Resources */ = {isa = PBXBuildFile; fileRef = 164744672073E21F008ED5DA /* doc */; };
 		E49E6D3F20728B2900ADC9B2 /* AgreeTermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49E6D3E20728B2900ADC9B2 /* AgreeTermsViewController.swift */; };
 		E49E6D4120728B4900ADC9B2 /* ConfirmationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49E6D4020728B4900ADC9B2 /* ConfirmationViewController.swift */; };
 		E4EBEAEB2072344900BA74CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4EBEAEA2072344900BA74CD /* AppDelegate.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		164744672073E21F008ED5DA /* doc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = doc; sourceTree = "<group>"; };
 		C40E92FF4D1B0524ED7F815C /* Pods_RentMe.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RentMe.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E49E6D3E20728B2900ADC9B2 /* AgreeTermsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgreeTermsViewController.swift; sourceTree = "<group>"; };
 		E49E6D4020728B4900ADC9B2 /* ConfirmationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 		E4EBEADE2072344900BA74CD = {
 			isa = PBXGroup;
 			children = (
+				164744672073E21F008ED5DA /* doc */,
 				E4EBEB0C2072833F00BA74CD /* cells */,
 				E4EBEB072072736F00BA74CD /* RentMe-Bridging-Header.h */,
 				E4EBEB032072361B00BA74CD /* controllers */,
@@ -210,6 +213,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4EBEAF52072344900BA74CD /* LaunchScreen.storyboard in Resources */,
+				164744682073E21F008ED5DA /* doc in Resources */,
 				E4EBEAF22072344900BA74CD /* Assets.xcassets in Resources */,
 				E4EBEAF02072344900BA74CD /* Main.storyboard in Resources */,
 			);
