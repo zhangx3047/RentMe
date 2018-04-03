@@ -2,8 +2,8 @@
 //  RentMe-Bridging-Header.h
 //  RentMe
 //
-//  Created by Song Liao on 2018/4/2.
-//  Copyright © 2018年 Neil. All rights reserved.
+//  Created by Xi Zhang on 2018/4/1
+//  Copyright © augsburg.edu All rights reserved.
 //
 
 #ifndef RentMe_Bridging_Header_h
