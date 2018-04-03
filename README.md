@@ -1,7 +1,7 @@
 # RentMe
-##cells- 
-###contains swift files for UITableViewCells
-##controllers- contains all the controller classes that manage logic of the app
+## cells
+ contains swift files for UITableViewCells
+## controllers- contains all the controller classes that manage logic of the app
 ##models-contains data models of the app
 ##Podfile-third party library installation file
 ##Pods-downloaded third party libraries
