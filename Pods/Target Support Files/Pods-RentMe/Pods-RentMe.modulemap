@@ -1,0 +1,6 @@
+framework module Pods_RentMe {
+  umbrella header "Pods-RentMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
